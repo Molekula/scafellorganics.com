@@ -1,0 +1,13 @@
+/*
+Theme Name: Scafell
+Theme URI: http://fah-designs.co.uk/mqworld
+Description: A bespoke responsive theme built with Skeleton
+Author: Simon Wade
+Author URI: http://fah-designs.co.uk
+Version: 1.0
+Tags: responsive, skeleton, boilerplate,
+*/
+
+input.wpcf7-form-control.wpcf7-text, textarea.wpcf7-form-control.wpcf7-textarea {color:#333;}
+input.wpcf7-form-control.wpcf7-submit {color:#fff;}
+
